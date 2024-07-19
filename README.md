@@ -15,6 +15,7 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 4 | Loops | Understanding Loops in JavaScript. Topics Covered: `For-loop`  `while-loop`  `Do-while-loop`  `Nested Loop` and also  Understanding and using for loops to iterate over a sequence of numbers Utilize while loops for iteration based on a condition.  Apply do...while loops to ensure the loop body is executed at least once . Implement nested loops to solve more complex problems. Use loop control statements (break and continue) to control the flow of loops    | 
 | 5 | Functions | Understanding and define `functions` using `function declaration `, `expressions` and `arrow functions`. use `function parameters` and `default values` effectively. create and utilize `higher-order` functions. Apply functions to solve common problems and perform calculations. Enhances `code reusability` and organization using functions.   | 
 | 6 | Array | Understanding Array creation and access Array method using `push`, `pop` , `shift` , `unshift` , `map` , `filter`,`reduce` . Array Iteration using  `for loop` , ` forEach loop`.  Multi-dimensional array Creating and access nested array.  | 
+| 7 | Objects | Create and manipulate `objects` with properties and methods , Understand and use the `this` keyword in object methods. Work with `nested objects` and `arrays of objects`. Iterate over an objects properties using `loops` and `built-in methoods`.  | 
                      
             
 
