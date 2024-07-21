@@ -17,6 +17,7 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 6 | Array | Understanding Array creation and access Array method using `push`, `pop` , `shift` , `unshift` , `map` , `filter`,`reduce` . Array Iteration using  `for loop` , ` forEach loop`.  Multi-dimensional array Creating and access nested array.  | 
 | 7 | Objects | Create and manipulate `objects` with properties and methods , Understand and use the `this` keyword in object methods. Work with `nested objects` and `arrays of objects`. Iterate over an objects properties using `loops` and `built-in methoods`.  | 
 | 8 | ES6+ Features | Understanding Objects in JavaScript.  `Template literals` and `string interpolation`. `Multi-line strings`.  `Destructuring` to extract values from arrays and objects.Spread and rest operators for array manipulation and function arguments. `Functions` with `default parameters`. Enhanced `object literals`, including methods and computed property names     | 
+| 9 | DOM Manipulation and Events  | Today I learn to  Select and manipulate `DOM elements` using `JavaScript`. Create and append `new elements` to the `DOM`. `Remove elements` from the `DOM`.  Modify attributes and classes of `HTML elements`. Add and `handle events` to make `web pages interactive`. | 
                      
             
 
