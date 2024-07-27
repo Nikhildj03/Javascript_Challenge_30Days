@@ -23,6 +23,7 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 12 | Error Handling |Today, I learned about `error handling` in JavaScript. I implemented basic error handling using `try-catch blocks` and used `finally block` to execute code regardless of the try-catch outcome. I created and used `custom error classes`, handled errors in `promises` using `.catch()` and within `async function` using try-catch, and implemented graceful error handling when making network requests with the `fetch API`.| 
 | 13 | Modules | Today, I learned to create and export `functions`, `objects`, and `constants` using `modules` in JavaScript. I practiced importing modules using both `named` and `default` imports and explored using `third-party modules` installed via `npm`. Additionally, I gained an understanding of the basics of `module bundling`. | 
 | 14 | CLASSES |Today, I learned to define and use `classes` with `properties` and `methods`. I implemented `inheritance` to `extend` `classes`, utilized `static methods `and properties, applied `getters` and `setters` for `encapsulation`, and understood and used `private fields` in classes. | 
+| 14 | CLOSURES |Today, I learned to understand and create `closures` in JavaScript. I used closures to maintain `private state` and create `encapsulated` modules, applied closures in practical scenarios like generating unique IDs and memoization, and used closures in `loops` to capture and use `variables` correctly. | 
                      
             
 
