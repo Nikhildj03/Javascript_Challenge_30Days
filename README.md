@@ -26,6 +26,7 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 15 | CLOSURES |Today, I learned to understand and create `closures` in JavaScript. I used closures to maintain `private state` and create `encapsulated` modules, applied closures in practical scenarios like generating unique IDs and memoization, and used closures in `loops` to capture and use `variables` correctly. | 
 | 16 | Recursion |Today, I learned to understand and implement basic `recursion`. I applied recursion to solve problems with `arrays` and `strings`, used recursion for searching and counting elements in arrays, and performed `tree traversal` and calculated `tree depth` using recursion. | 
 | 17 | Data Structures | Today, I learned to implement and use `linked lists` for dynamic data storage. I used `stacks` for LIFO operations and reversing data, queues for FIFO operations to simulate real-world scenarios, and implemented `binary trees` for hierarchical data storage and traversal. | 
+| 18 | Algorithms |Today, I learned to implement and understand common `sorting` and `searching` algorithms. I also solved `string manipulation` problems using algorithms and performed `array operations` using various algorithms. | 
 
                      
             
