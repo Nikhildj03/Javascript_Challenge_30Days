@@ -1,0 +1,18 @@
+<!-- Task-4: Write a script to remove an item from localStorage.Log the localStorage content before and after removal. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task-4</title>
+  </head>
+  <body>
+    <script>
+      localStorage.setItem("removeItem", "This will be removed");
+      console.log("Before removal:", localStorage.getItem("removeItem"));
+      localStorage.removeItem("removeItem");
+      console.log("After removal:", localStorage.getItem("removeItem"));
+    </script>
+  </body>
+</html>

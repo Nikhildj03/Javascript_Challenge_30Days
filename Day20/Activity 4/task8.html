@@ -1,0 +1,18 @@
+<!-- Task-8:Write a script to remove an item from sessionStorage.Log the sessionStorage content before and after removal. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task-8</title>
+  </head>
+  <body>
+    <script>
+      sessionStorage.setItem("removeItem", "This will be removed");
+      console.log("Before removal:", sessionStorage.getItem("removeItem"));
+      sessionStorage.removeItem("removeItem");
+      console.log("After removal:", sessionStorage.getItem("removeItem"));
+    </script>
+  </body>
+</html>

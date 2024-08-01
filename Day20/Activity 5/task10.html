@@ -1,0 +1,24 @@
+<!-- Task-10:Write a function that clears all data from both localStorage and sessionStorage.Verify that both storages are empty.
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task-10</title>
+  </head>
+  <body>
+    <script>
+      function clearBothStorages() {
+        localStorage.clear();
+        sessionStorage.clear();
+      }
+
+      clearBothStorages();
+
+      console.log("LocalStorage after clear:", localStorage);
+      console.log("SessionStorage after clear:", sessionStorage);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<!-- Activity-1[Understanding LocalStorage] -->
+
+<!-- Task-1: Write a script to save a string value to localStorage and retrive it.Log the retrived value. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=, initial-scale=1.0" />
+    <title>Task-1</title>
+  </head>
+  <body>
+    <script>
+      localStorage.setItem("myString", "Hello, LocalStorage!");
+      const retrievedString = localStorage.getItem("myString");
+      console.log(retrievedString);
+    </script>
+  </body>
+</html>
