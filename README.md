@@ -28,6 +28,7 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 17 | Data Structures | Today, I learned to implement and use `linked lists` for dynamic data storage. I used `stacks` for LIFO operations and reversing data, queues for FIFO operations to simulate real-world scenarios, and implemented `binary trees` for hierarchical data storage and traversal. | 
 | 18 | Algorithms |Today, I learned to implement and understand common `sorting` and `searching` algorithms. I also solved `string manipulation` problems using algorithms and performed `array operations` using various algorithms. | 
 | 19 | Regular Expression |Today, I learned to understand and create basic  `regular expressions`. I used `character classes` and `quantifiers`, implemented `grouping` and `capturing`, applied assertions and boundaries, and utilized regular expressions for practical applications like validating passwords and URLs. | 
+| 20 | LocalStorage and SessionStorage |Today, I learned to use `localStorage` and `sessionStorage` for `persistent` and `session-specific` data storage. I practiced saving, retrieving, and removing data from both localStorage and sessionStorage, implemented form data storage, and compared and contrasted the use cases for localStorage and sessionStorage.| 
 
                      
             
