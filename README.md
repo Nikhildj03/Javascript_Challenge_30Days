@@ -32,7 +32,7 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 21 | LeetCode Easy  | Today, I solved common LeetCode problems, applying problem-solving skills to implement `algorithms`. I focused on understanding and handling edge cases in algorithmic solutions and gained confidence in tackling easy-level coding challenges on LeetCode.| 
 | 22 | LeetCode Medium  | Today, I solved common medium-level LeetCode problems, applying advanced problem-solving skills to implement `algorithms`. I focused on understanding and handling edge cases in more complex algorithmic solutions, and I gained confidence in tackling medium-level coding challenges on LeetCode.
 
-| 
+
                      
             
 
