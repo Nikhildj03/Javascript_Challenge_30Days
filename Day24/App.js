@@ -1,31 +1,31 @@
-let apiKeys = "16deaf9a19c54dec97f54628240508";
-// http://api.weatherapi.com/v1/current.json?key=16deaf9a19c54dec97f54628240508&q=London&aqi=yes
-let cityInput = document.getElementById("cityInput");
-let searchBtn = document.getElementById("searchBtn");
-let output = document.getElementsByClassName("output")[0];
+APIKYE = "c4b469446da64a62a7455412241903";
 
+// API = `https://api.weatherapi.com/v1/current.json?key=c4b469446da64a62a7455412241903&q=London&aqi=yes`
+
+const searchBtn = document.getElementById("searchBtn");
+const cityInput = document.getElementById("cityInput");
+
+// referencing output fields
 const cityName = document.getElementById("city-name");
-const country = document.getElementById("countryName");
-const locTime = document.getElementById("loc-time");
+const countryName = document.getElementById("countryName");
+const localTime = document.getElementById("loc-time");
 const temp = document.getElementById("temp");
+const sup = document.getElementById("sup");
 
-async function getData(apiKeys, cityInput) {
+async function getData(KYE, cityName) {
   const promise = await fetch(
-    `http://api.weatherapi.com/v1/current.json?key=${apiKeys}&q=${cityInput}&aqi=yes`
+    `https://api.weatherapi.com/v1/current.json?key=${KYE}&q=${cityName}&aqi=yes`
   );
-
   return await promise.json();
 }
 
 searchBtn.addEventListener("click", async () => {
   const input = cityInput.value;
-  const result = await getData(apiKeys, input);
-  cityName.innerText = `${result.location.name}, ${result.location.region}, `;
-  country.innerText = result.location.country;
-  temp.innerText = result.current.temp_c;
-  locTime.innerText = `${result.location.localtime}`;
+  document.getElementById("outputCard").style.visibility = "visible";
+  const result = await getData(APIKYE, input);
+  cityName.innerText = ` ${result.location.name}, ${result.location.region}`;
+  countryName.innerText = `${result.location.country}`;
+  temp.innerText = `${result.current.temp_c}`;
+  sup.innerText = "°C";
+  localTime.innerText = `${result.location.localtime}`;
 });
-
-// searchBtn.addEventListener("click", () => {
-//   output.classList.toggle("hidden");
-// });

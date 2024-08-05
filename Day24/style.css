@@ -78,12 +78,8 @@ body {
 
 /* Output from web  */
 
-/* .hidden {
-  visibility: visible;
-} */
-
 .output {
-  /* visibility: hidden; */
+  visibility: hidden;
   width: 30%;
   display: flex;
   flex-direction: column;
