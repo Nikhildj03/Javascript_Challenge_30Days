@@ -33,7 +33,7 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 22 | LeetCode Medium  | Today, I solved common `medium-level LeetCode problems`, applying advanced problem-solving skills to implement `algorithms`. I focused on understanding and handling edge cases in more complex algorithmic solutions, and I gained confidence in tackling medium-level coding challenges on LeetCode. |
 | 23 | LeetCode Hard  | Today, I solved complex LeetCode problems, applying advanced problem-solving skills to implement efficient algorithms. I focused on `understanding` and `handling edge cases` in `hard algorithmic` solutions and gained confidence in tackling hard-level coding challenges on LeetCode. |
 | 24 | Project 1 Weather App    | Today, I created a Weather App using `HTML`, `CSS`, and `JavaScript`. Upon opening the app, it displays the current weather information for your current location, based on your browser settings. To search for weather information for a different location, you can enter the desired location or city name in the search bar and press Enter. |
-| 25 | Project 2 Movie Search App    | Today, I created a Movie Search App. Upon opening the app, it allow users to search for movies, view detailed information, and explore their favorite films. Built with HTML, CSS, and JavaScript, this app provides a user-friendly and responsive experience. |
+| 25 | Project 2 Movie Search App    | Today, I created a Movie Search App. Upon opening the app, it allow users to search for movies, view detailed information, and explore their favorite films. Built with `HTML`, `CSS`, and `JavaScript`, this app provides a user-friendly and responsive experience. |
 
 
                      
