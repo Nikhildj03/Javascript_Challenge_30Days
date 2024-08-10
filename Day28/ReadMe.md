@@ -17,7 +17,7 @@
 - Responsive design for various screen sizes
 
 ## Project Structure
-```
+
 
 gadget-arena/
 │
@@ -34,7 +34,7 @@ gadget-arena/
 ├── assets/
 │   └── [hero slider images]
 └── README.md
-```
+
 
 ## Technologies Used
 - HTML
