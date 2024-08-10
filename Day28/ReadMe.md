@@ -18,6 +18,7 @@
 
 ## Project Structure
 ```
+
 gadget-arena/
 │
 ├── index.html
