@@ -1,6 +1,3 @@
-Here’s a README file for your EchoSocial project:
-
----
 
 # EchoSocial - Social Media Dashboard
 
